@@ -15,7 +15,7 @@ public class Constante {
 	
 	public String mensajePeticionErr () {
 
-		return "Desea volver a ingresar los datos indique 'SI'";
+		return "Desea volver a ingresar los datos indique 'SI' ";
 	}
 	
 	public String mensajeIngreso () {
